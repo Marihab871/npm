@@ -1,2 +1,2 @@
 # npm
-My nmp boilerplate 
+My npm boilerplate 
